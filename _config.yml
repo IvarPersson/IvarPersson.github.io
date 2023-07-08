@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ivar.persson@math.lth.se"}
   - {title: Github, icon: github, url: "https://github.com/IvarPersson"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Google Scholar, icon: scholar, url: "https://scholar.google.com/citations?user=1fl_rxUAAAAJ&hl=sv&oi=ao"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
